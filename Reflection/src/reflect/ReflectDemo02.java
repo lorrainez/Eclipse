@@ -3,7 +3,7 @@ package reflect;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-
+//123
 public class ReflectDemo02 {
 	//获取对象的实例，并操作该对象
 	public static void demo01() throws InstantiationException, IllegalAccessException {

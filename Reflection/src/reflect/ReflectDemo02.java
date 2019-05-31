@@ -4,6 +4,7 @@ import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 public class ReflectDemo02 {
+	//123
 	//获取对象的实例，并操作该对象
 	public static void demo01() throws InstantiationException, IllegalAccessException {
 		Class<?> perClass = null;

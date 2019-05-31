@@ -1,7 +1,7 @@
 package reflect;
 
 public class Person implements MyInterface, MyInterface2{
-  //Test confliction2 + Test Confiction
+  //Test confliction2 + Test Confiction1
 	private int id;
 	private String name;
 	private int age;
